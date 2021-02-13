@@ -5,6 +5,8 @@ Ky aplikacion eshte duhet te jete punuar ne menyre qe te permbaje nje meny per p
 
 Ne permes te kodit tone kemi mundesuar transferimin e fajllave me ekstension .doc, .docx, .xls, .xlsx prej nje folderi ne nje FTP server . Ne rastin tone ne kemi krijuar nje FTP server host tonin permes te cilit kemi mundesuar transferimin/ngarkimin e fajllave te caktuar.
 
+Kodit tone mund te e gjeni ne kete path te repositorit tone (FtpTransfer/FtpTransfer/FtpTransfer.py)
+
 Disa foto qe tregojn ekzekutimin e kodit dhe funksionimin e kodit tone:
 
 Si fillim ne figuren e meposhtme kemi konfigurimin e serverit tone FTP
